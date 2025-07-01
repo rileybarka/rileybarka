@@ -27,7 +27,7 @@
 
   <br><br>
 
-  [![](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rileybarka)
+  [![](https://img.shields.io/badge/linkedin-rileybarka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riley-barka-972028123)
   [![](https://img.shields.io/badge/email-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barkar@wit.edu)
   
 
