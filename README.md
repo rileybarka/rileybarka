@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.imgur.com/VYBxMKp.gif" width="500px" />
+  <img src="https://64.media.tumblr.com/ee9c11c85e66d91bba63c8e7d872bc55/tumblr_n2rsb1WnnB1r93041o1_500.gifv" width="500px" />
 
 
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1350&height=140&lines=Hello+There!;I'm+Riley%2C+A+Tech+Girl+and+Cybersecurity+Enthusiast" width="90%" />
