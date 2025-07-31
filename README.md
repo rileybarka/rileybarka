@@ -16,12 +16,34 @@
   </pre>
 
   <pre>
+Skills & Tools
+────────────────────────────
+</pre>
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="PowerShell" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="Terraform" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" />
+  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="Visual Studio Code" />
+</p>
+
+  <br>
+
+  <pre>
 🏃‍♂️ Passionate Runner with my Dog
 🧘‍♀️ Pilates & Yoga Lover
 🥾 Outdoors Wizard 
   </pre>
 
-  <br><br>
+  <br>
 
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
