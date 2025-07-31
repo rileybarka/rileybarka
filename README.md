@@ -38,9 +38,10 @@ Skills & Tools
   <br>
 
   <pre>
-🏃‍♂️ Passionate Runner with my Dog
-🧘‍♀️ Pilates & Yoga Lover
-🥾 Outdoors Wizard 
+🌱 Lifelong Learner & Tinkerer
+📚 Always Exploring New Tech & Tools
+🔐 Cybersecurity & System Admin Enthusiast
+🖥️ Building Secure & Reliable Systems
   </pre>
 
   <br>
