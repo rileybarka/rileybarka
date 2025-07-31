@@ -48,7 +48,7 @@ Skills & Tools
 
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
-  <br><br>
+  <br>
 
   [![](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riley-barka)
   [![](https://img.shields.io/badge/email-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barkar@wit.edu)
